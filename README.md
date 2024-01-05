@@ -46,3 +46,14 @@ https://github.com/shinkuan/RandomStuff/assets/35415788/2b364ad2-08ee-49c5-b67e-
 # Authors
 
 * **Shinkuan** - [Shinkuan](https://github.com/shinkuan/)
+
+## Support me
+
+留個星星就可以啦
+有問題可到 [Discord](https://discord.gg/Z2wjXUK8bN) 找我
+
+# See Also
+
+### [Akagi](https://github.com/shinkuan/Akagi)
+
+### [MajsoulUnlocker](https://github.com/shinkuan/MajsoulUnlocker)
