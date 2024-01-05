@@ -1,0 +1,95 @@
+{
+    "role": 10012,
+    "skin": 1001201,
+    "title": 12003,
+    "userEquip": {
+        "code": 0,
+        "data": [
+            {
+                "IsRand": false,
+                "ItemID": 30508,
+                "ItemType": 30,
+                "RandItemIDs": []
+            },
+            {
+                "IsRand": false,
+                "ItemID": 36001,
+                "ItemType": 36,
+                "RandItemIDs": []
+            },
+            {
+                "IsRand": false,
+                "ItemID": 22001,
+                "ItemType": 22,
+                "RandItemIDs": []
+            },
+            {
+                "IsRand": false,
+                "ItemID": 24002,
+                "ItemType": 24,
+                "RandItemIDs": []
+            },
+            {
+                "IsRand": false,
+                "ItemID": 18004,
+                "ItemType": 18,
+                "RandItemIDs": []
+            },
+            {
+                "IsRand": false,
+                "ItemID": 20003,
+                "ItemType": 20,
+                "RandItemIDs": []
+            },
+            {
+                "IsRand": false,
+                "ItemID": 17005,
+                "ItemType": 17,
+                "RandItemIDs": []
+            },
+            {
+                "IsRand": false,
+                "ItemID": 19004,
+                "ItemType": 19,
+                "RandItemIDs": []
+            },
+            {
+                "IsRand": false,
+                "ItemID": 14069,
+                "ItemType": 14,
+                "RandItemIDs": []
+            },
+            {
+                "IsRand": false,
+                "ItemID": 15041,
+                "ItemType": 15,
+                "RandItemIDs": []
+            },
+            {
+                "IsRand": false,
+                "ItemID": 25003,
+                "ItemType": 25,
+                "RandItemIDs": []
+            },
+            {
+                "IsRand": false,
+                "ItemID": 26001,
+                "ItemType": 26,
+                "RandItemIDs": []
+            },
+            {
+                "IsRand": false,
+                "ItemID": 13033,
+                "ItemType": 13,
+                "RandItemIDs": []
+            },
+            {
+                "IsRand": false,
+                "ItemID": 16017,
+                "ItemType": 16,
+                "RandItemIDs": []
+            }
+        ],
+        "message": "ok"
+    }
+}
