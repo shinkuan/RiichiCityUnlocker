@@ -38,6 +38,22 @@ https://github.com/shinkuan/RandomStuff/assets/35415788/2b364ad2-08ee-49c5-b67e-
 6. `pip install -r requirements.txt`
 7. `mitmdump -s unlocker.py -p <PORT>`
 
+## 聲明
+
+本腳本僅供學習參考交流，請使用者於下載24小時內自行刪除，不得用於商業用途，否則後果自負。
+
+此插件僅供學習參考交流，請使用者於下載24小時內自行刪除，不得用於商業用途，否則後果自負。
+
+此插件僅供學習參考交流，請使用者於下載24小時內自行刪除，不得用於商業用途，否則後果自負。
+
+### 警告：
+
+雀魂遊戲官方可能會偵測並封號！
+
+如產生任何後果與作者無關！
+
+使用本腳本則表示同意此條款！
+
 # TODO
  - [ ] 確保傳送到Server端的資料沒有使用Unlocker的跡象
  - [ ] 建立完整的物品表 __(Need Help)__
@@ -54,6 +70,9 @@ https://github.com/shinkuan/RandomStuff/assets/35415788/2b364ad2-08ee-49c5-b67e-
 
 # See Also
 
-### [Akagi](https://github.com/shinkuan/Akagi)
+## [Akagi](https://github.com/shinkuan/Akagi)
+![image](https://github.com/shinkuan/RandomStuff/assets/35415788/4f9b2e2f-059e-44a8-b11a-5b2ce28cb520)
 
-### [MajsoulUnlocker](https://github.com/shinkuan/MajsoulUnlocker)
+## [MajsoulUnlocker](https://github.com/shinkuan/MajsoulUnlocker)
+
+https://github.com/shinkuan/RandomStuff/assets/35415788/e5371e99-7c43-479f-adb6-c950dbac6a4d
