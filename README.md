@@ -9,9 +9,9 @@ Riichi City Unlocker<br>
     <br/>
     <br/>
     <br/>
-    <a href="https://github.com/shinkuan/ICC2012_B/issues">Report Bug</a>
+    <a href="https://github.com/shinkuan/RiichiCityUnlocker/issues">Report Bug</a>
     .
-    <a href="https://github.com/shinkuan/ICC2012_B/issues">Request Feature</a>
+    <a href="https://github.com/shinkuan/RiichiCityUnlocker/issues">Request Feature</a>
   </p>
 </p>
 
@@ -44,10 +44,6 @@ https://github.com/shinkuan/RandomStuff/assets/35415788/2b364ad2-08ee-49c5-b67e-
  - [ ] 確保傳送到Server端的資料沒有使用Unlocker的跡象
  - [ ] 建立完整的物品表 __(Need Help)__
  - [ ] 還是有很多Bug
-
-# License
-
-Distributed under the MIT License. See [LICENSE](https://github.com/) for more information.
 
 # Authors
 
