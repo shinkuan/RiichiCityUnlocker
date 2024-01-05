@@ -9,15 +9,14 @@ Riichi City Unlocker<br>
     <br/>
     <br/>
     <br/>
-    <a href="https://github.com/shinkuan/ICC2012_B/issues">Report Bug</a>
+    <a href="https://github.com/shinkuan/RiichiCityUnlocker/issues">Report Bug</a>
     .
-    <a href="https://github.com/shinkuan/ICC2012_B/issues">Request Feature</a>
+    <a href="https://github.com/shinkuan/RiichiCityUnlocker/issues">Request Feature</a>
   </p>
 </p>
 
 # About The Project
 
-![Screen Shot](image/title.png)
 https://github.com/shinkuan/RandomStuff/assets/35415788/2b364ad2-08ee-49c5-b67e-fce1aa862088
 
 
@@ -32,7 +31,7 @@ https://github.com/shinkuan/RandomStuff/assets/35415788/2b364ad2-08ee-49c5-b67e-
   - 新建一個Proxification Rule，選擇將Riichi City應用的連線導向到剛剛新建的Proxy Server
 
 1. `git clone this`
-2. Change the directory in generateUserItemList.py:442
+2. Change the directory in [generateUserItemList.py:442](https://github.com/shinkuan/RiichiCityUnlocker/blob/9d794befa1b311458305d5a44810009c437cd01f/generateUserItemList.py#L442)
 3. `cd RiichiCityUnlocker`
 4. `python -m venv venv`
 5. `venv\Scripts\activate.bat`
@@ -43,10 +42,6 @@ https://github.com/shinkuan/RandomStuff/assets/35415788/2b364ad2-08ee-49c5-b67e-
  - [ ] 確保傳送到Server端的資料沒有使用Unlocker的跡象
  - [ ] 建立完整的物品表 __(Need Help)__
  - [ ] 還是有很多Bug
-
-# License
-
-Distributed under the MIT License. See [LICENSE](https://github.com/) for more information.
 
 # Authors
 
