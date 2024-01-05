@@ -54,6 +54,9 @@ https://github.com/shinkuan/RandomStuff/assets/35415788/2b364ad2-08ee-49c5-b67e-
 
 # See Also
 
-### [Akagi](https://github.com/shinkuan/Akagi)
+## [Akagi](https://github.com/shinkuan/Akagi)
+![image](https://github.com/shinkuan/RandomStuff/assets/35415788/4f9b2e2f-059e-44a8-b11a-5b2ce28cb520)
 
-### [MajsoulUnlocker](https://github.com/shinkuan/MajsoulUnlocker)
+## [MajsoulUnlocker](https://github.com/shinkuan/MajsoulUnlocker)
+
+https://github.com/shinkuan/RandomStuff/assets/35415788/e5371e99-7c43-479f-adb6-c950dbac6a4d
